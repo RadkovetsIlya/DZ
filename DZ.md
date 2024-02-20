@@ -4,10 +4,10 @@
 
 ## *Ссылки на уроки GeekBrainse*
 
-1. [GeekBrains]("https://gb.ru/lessons/408951" "Посмотреть лекцию 1")
+1. [GeekBrains]("https://gb.ru/lessons/408951" "Посмотреть лекцию 1") - _Лекция 1_
 
-2. [GeekBrains]("https://gb.ru/lessons/408952" "Посмотреть Семинар 1")
+2. [GeekBrains]("https://gb.ru/lessons/408952" "Посмотреть Семинар 1") - _Семинар1_
 
-3. [GeekBrains]("https://gb.ru/lessons/408953" "Посмотреть Лекцию 2")
+3. [GeekBrains]("https://gb.ru/lessons/408953" "Посмотреть Лекцию 2") - _Лекция 2_
 
-4. [GeekBrains]("https://gb.ru/lessons/408954" "Посмотреть Семинар 2")
+4. [GeekBrains]("https://gb.ru/lessons/408954" "Посмотреть Семинар 2") - _Семинар 2_
