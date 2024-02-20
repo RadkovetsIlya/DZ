@@ -22,5 +22,11 @@ git merge - Соеденить ветки
 
 git log --oneline --graph - аоказать в терминале пути веток графически
 
+git config --global user.name - Добавить свое имя в GIT
+
+git config --global user.email - Добавить свой email в GIT
+
+git restor - удалить безвозвратно несохраненный текст в файле
+
 
 ## *Ссылки на уроки GeekBrainse*
