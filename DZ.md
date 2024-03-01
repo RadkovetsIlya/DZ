@@ -41,6 +41,16 @@ git config --global user.email - Добавить свой email в GIT
 git restor - удалить безвозвратно несохраненный текст в файле
 ```
 
+```sh
+git push - отправить файл в Git Hub с локального компьтера
+```
+```sh
+git pull - загрузить файл из Git Hub на локальный компьтер 
+```
+```sh
+git remote add origin "ссылка на Git Hub" - указать расположение файла в Git Hub
+```
+
 ## *Ссылки на уроки GeekBrainse*
 1. [GeekBrains]("https://gb.ru/lessons/408951" "Посмотреть лекцию 1") - _Лекция 1_
 
